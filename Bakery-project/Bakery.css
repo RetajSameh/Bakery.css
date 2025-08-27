@@ -1,0 +1,158 @@
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url("images/images/full-2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: brown;
+
+}
+
+a{
+    color:bisque;
+    font-family: "Pacifico", cursive;
+    text-decoration: none;
+
+}
+
+
+a:hover {
+  color: orange;  
+  text-decoration: underline; 
+}
+
+a:active {
+  color: red;    
+}
+a#lb{
+    color:brown;
+    font-size: medium;
+    font-family: "Dancing Script", cursive;
+}
+
+
+div#sec1{
+    width: 1530px;
+    height: 250px;
+     
+    background-color: rgba(245, 97, 39, 0.8);
+    color:beige;
+}
+
+
+div.sec2{
+    color: bisque;
+    font-size: small;
+     font-family: "Dancing Script", cursive;
+
+   
+    
+}
+
+p#fb{
+    color: aliceblue;
+    font-size: xx-large;
+     font-family: "Dancing Script", cursive;
+
+}
+.p{
+    color: whitesmoke;
+  font-family: "Dancing Script", cursive;
+  font-size: 20px;
+}
+
+button{
+    border-width:3px;
+    border-color:coral;
+    border-style:groove;
+    border-radius: 9px;
+      
+}
+
+.img1{
+
+    color:azure;
+    font-size: x-large;
+    text-align: center;
+}
+
+
+h1.who{
+color: bisque;
+font-family: "Dancing Script", cursive;
+font-size: xx-large;
+}
+
+
+p.p2{
+    color: whitesmoke;
+    font-size: large;
+     font-family: "Dancing Script", cursive;
+}
+ul.list2{
+    color: azure;
+}
+
+p#listText{
+
+    color: azure;
+    font-family: "Dancing Script", cursive;
+}
+h1#offers{
+    color: bisque;
+      font-family: "Dancing Script", cursive;
+      font-size: xx-large;
+}
+
+h1.offers{
+    color: azure;
+    font-family: "Dancing Script", cursive;
+      font-size: xx-large;
+}
+
+ul.list3{
+    color: bisque;
+
+}
+cite{
+    color: azure;
+    font-family: "Dancing Script", cursive;
+    font-size: medium;
+
+
+}
+
+h1.gallery{
+    color: bisque;
+    font-family: "Dancing Script", cursive;
+    font-size: xx-large;
+}
+p.gallery{
+    color: beige;
+    font-family: "Dancing Script", cursive;
+    font-size: medium;
+}
+
+h2{
+    color: azure;
+    font-family: "Dancing Script", cursive;
+}
+footer{
+    color:aqua;
+    font-size: medium;
+}
+
+
+
+h1#contact{
+    color: bisque;
+    font-size: xx-large;
+    font-family: "Dancing Script", cursive;
+
+}
+
+
+
+ul#contact{
+    color: azure;
+    font-size: xx-large;
+}
